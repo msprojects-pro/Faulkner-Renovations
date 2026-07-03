@@ -1,0 +1,6 @@
+{
+  "name": "Faulkner Renovations",
+  "description": "Premium home renovations, media walls, custom wardrobes, and kitchen refurbishments based in Rotherham, United Kingdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
